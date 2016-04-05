@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_2603aaf729531e023a2adcb81f90d4547da26620.jar" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_89513e43ce05a7ea43d0865dd3222ad2abda76f5.jar" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_5f6ec8e13dbf4b2f9b69b178aa177fc753a8891f.jar" />
+    </item>
+    <item
+        jar="/home/wansu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_28c6940b08616ea43107b0c29a2246659d7dd135.jar" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_51d46c40d64512fd585bd2785eb1fd2537a0f083.jar" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/wansu/AndroidStudioProjects/Hello/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_13cf0ae23e33e618a8a0312eeeac222805575b50.jar" />
+    </item>
+
+</items>
